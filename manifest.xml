@@ -1,9 +1,9 @@
-<?xml version='1.0'?>
+<?xml version='1.1'?>
 <module>
 <name>SubsList</name>
 <label>SubsList</label>
 <parent>Marketing</parent>
-<version>1.0</version>
+<version>1.1</version>
 <short_description>Module description.</short_description>
 <dependencies>
 <vtiger_version>5.4.0</vtiger_version>
